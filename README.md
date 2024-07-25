@@ -1,2 +1,2 @@
 # Gen.img
-Ai Image Generation
+Ai Image Generator 
